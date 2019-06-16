@@ -12,5 +12,8 @@ public class FirstClass {
         System.out.println("git 已经纳入了版本控制");
 
         //clone加入
+
+//这里该是主干的同时开发位置
+        //clone和主干同时开发
     }
 }
