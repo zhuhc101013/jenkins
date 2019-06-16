@@ -8,5 +8,7 @@ public class FirstClass {
         System.out.println("first git version control");
         System.out.println("first git version control");
         System.out.println("first git version control");
+
+        System.out.println("git 已经纳入了版本控制");
     }
 }
